@@ -2,7 +2,7 @@
 layout: slide
 title: "Welcome to Qian's slide!"
 ---
-Hello, **this is Qian**
+Hello, **this is Qian** :tada:
 - [x] learn algorithm
 - [ ] learn GitHub
 - [ ] learn Java

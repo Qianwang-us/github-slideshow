@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to Qian's slide!"
 ---
 Hello, **this is Qian**
 - [x] learn algorithm
